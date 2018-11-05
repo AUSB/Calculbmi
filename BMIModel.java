@@ -1,4 +1,4 @@
-package com.example.yajunbai.bmi;
+package com.example.superman.bmi;
 
 public class BMIModel {
     private double weight;
